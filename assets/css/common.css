@@ -1,0 +1,89 @@
+.error {
+    color: red;
+}
+
+.modal-header {
+    background-color: #8585ad;
+    color: white;
+}
+
+.modal-content {
+    overflow: hidden;
+}
+
+.modal-body {
+    background-color: #f0f0f5;
+
+}
+
+.modal-title {
+    color: white !important;
+}
+
+.select2 {
+    width: 100% !important;
+}
+
+.btn {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+.backgroundColor {
+    background-color: #f0f0f5;
+    border: 1px solid #1f254f;
+    border-radius: 10px;
+}
+
+.view {
+    background-color: #f0f0f5;
+}
+
+.m-subheader__title {
+    color: #cd20f0 !important;
+}
+
+.profile {
+    background-color: #f0f5f5;
+
+}
+
+.profileContent {
+    background-color: #6c757d;
+
+}
+
+.tabWidth {
+    width: 200px;
+}
+
+.ratinglist {
+    direction: rtl !important;
+    font-size: 10px !important;
+}
+
+.fa-star-o {
+    color: red;
+}
+
+.ratinglist input {
+    opacity: 0 !important;
+    position: relative !important;
+}
+
+.top-margin {
+    margin-top: 40px;
+}
+
+#ex6slider .slider-selection {
+    background: #400080;
+}
+
+.headview {
+    background-color: #6ac9a7;
+
+}
+
+.m-portlet__head-text {
+    color: white !important;
+}
